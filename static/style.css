@@ -1,0 +1,29 @@
+
+@charset "ISO-8859-1";
+#movies img, #movie img{
+	width:100%;
+    padding: 0;
+}
+
+@media(min-width:960px){
+#movies .col-md-3 .well{
+	height: 390px;
+}
+
+#movies .col-md-3 img{
+	height:240px;
+}
+}
+
+*{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.jumbotron{
+    border: black solid 2px;
+}
+
+img{
+    border: black solid 2px;
+}
