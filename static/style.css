@@ -27,3 +27,12 @@
 img{
     border: black solid 2px;
 }
+
+nav{
+    display: flex;
+    justify-content: center;
+}
+
+nav h1{
+    color: white;
+}
