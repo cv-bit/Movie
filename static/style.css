@@ -28,7 +28,7 @@ img{
     border: black solid 2px;
 }
 
-nav{
+.navbar{
     display: flex;
     justify-content: center;
 }
