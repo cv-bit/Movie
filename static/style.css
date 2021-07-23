@@ -6,22 +6,18 @@
 }
 
 @media(min-width:960px){
-#movies .col-md-3 .well{
-	height: 390px;
-}
+    #movies .col-md-3 .well{
+        height: 390px;
+    }
 
-#movies .col-md-3 img{
-	height:240px;
-}
-}
-
-*{
-    padding-top: 10px;
-    padding-bottom: 10px;
+    #movies .col-md-3 img{
+        height:240px;
+    }
 }
 
 .jumbotron{
     border: black solid 2px;
+    margin: 20px;
 }
 
 img{
