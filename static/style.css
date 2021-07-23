@@ -17,7 +17,6 @@
 
 .jumbotron{
     border: black solid 2px;
-    margin: 20px;
 }
 
 img{
@@ -27,6 +26,7 @@ img{
 .navbar{
     display: flex;
     justify-content: center;
+    margin-bottom: 20px;
 }
 
 nav h1{
