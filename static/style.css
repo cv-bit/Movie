@@ -32,3 +32,9 @@ img{
 nav h1{
     color: white;
 }
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
